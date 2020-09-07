@@ -1,0 +1,9 @@
+{
+	"codigo": "ARQ",
+	"titulo": "Arquitetura Java",
+	"nomeAutor": "Paulo Silveira",
+	"valor": 29.90,
+	"categoria": {
+		"nome": "TI"
+	}
+}
